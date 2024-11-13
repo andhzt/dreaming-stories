@@ -10,4 +10,7 @@ button {
     background-color: rgb(200, 50, 255);
     color: white;
     font-family: "Renogare";
+    height: 20px;
+    border: white;
+    border-radius: 10px;
 }
