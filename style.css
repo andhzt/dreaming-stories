@@ -1,0 +1,13 @@
+body {
+    color: white;
+    background: rgb(175, 0, 255);
+    margin: 0px;
+    font-family: "Renogare";
+    margin-bottom: 100px;
+}
+
+button {
+    background-color: rgb(200, 50, 255);
+    color: white;
+    font-family: "Renogare";
+}
