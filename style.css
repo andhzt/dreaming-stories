@@ -14,3 +14,12 @@ button {
     border: white;
     border-radius: 10px;
 }
+
+button:hover {
+    background-color: rgb(212, 95, 255);
+    color: white;
+    font-family: "Renogare";
+    height: 20px;
+    border: white;
+    border-radius: 10px;
+}
