@@ -23,3 +23,11 @@ button:hover {
     border: white;
     border-radius: 10px;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
